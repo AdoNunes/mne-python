@@ -93,6 +93,8 @@ Bug
 
 - Fix bug in EDF(+) loading, filter values ignored by insufficient regex, by `Demetres Kostas`_
 
+- Fix handling text annotations with a single segment or empty with :func:`mne.read_annotations` , by `Adonay Nunes`_
+
 API
 ~~~
 
